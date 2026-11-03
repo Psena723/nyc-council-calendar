@@ -8,42 +8,6 @@ X-WR-TIMEZONE:America/New_York
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
-UID:1437328@nyc-council-calendar
-DTSTAMP:20261007T140000Z
-DTSTART:20261007T140000Z
-DTEND:20261007T150000Z
-SUMMARY:NYC Council - Committee on Consumer and Worker Protection
-LOCATION:250 Broadway - 8th Floor - Hearing Room 1
-DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
- tail.aspx?ID=1437328&GUID=07D165D0-B39B-4249-9315-BC4C077F7546&Options=in
- fo|&Search=\nEnd time is a placeholder.
-URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1437328&GUID=07
- D165D0-B39B-4249-9315-BC4C077F7546&Options=info|&Search=
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Hearing tomorrow
-TRIGGER:-P1D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:1453105@nyc-council-calendar
-DTSTAMP:20261007T150000Z
-DTSTART:20261007T150000Z
-DTEND:20261007T160000Z
-SUMMARY:NYC Council - Committee on Small Business
-LOCATION:250 Broadway - 8th Floor - Hearing Room 3 VOTE*
-DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
- tail.aspx?ID=1453105&GUID=D15E5DFC-C5F9-4DB2-82F3-F30D47F8E009&Options=in
- fo|&Search=\nEnd time is a placeholder.
-URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1453105&GUID=D1
- 5E5DFC-C5F9-4DB2-82F3-F30D47F8E009&Options=info|&Search=
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Hearing tomorrow
-TRIGGER:-P1D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:1453104@nyc-council-calendar
 DTSTAMP:20261007T160000Z
 DTSTART:20261007T160000Z
@@ -1060,6 +1024,25 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:1461473@nyc-council-calendar
+DTSTAMP:20261109T150000Z
+DTSTART:20261109T150000Z
+DTEND:20261109T160000Z
+SUMMARY:NYC Council - Committee on Rules\, Privileges\, Elections\, Standa
+ rds and Ethics
+LOCATION:250 Broadway - 8th Floor - Hearing Room 1
+DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
+ tail.aspx?ID=1461473&GUID=3D9474F2-458C-4AD3-8180-070EB16F0C30&Options=in
+ fo|&Search=\nEnd time is a placeholder.
+URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1461473&GUID=3D
+ 9474F2-458C-4AD3-8180-070EB16F0C30&Options=info|&Search=
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hearing tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:1443477@nyc-council-calendar
 DTSTAMP:20261110T160000Z
 DTSTART:20261110T160000Z
@@ -1329,6 +1312,24 @@ DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
  fo|&Search=\nEnd time is a placeholder.
 URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1460166&GUID=F1
  F1823C-8DD4-42EA-8248-740D6CC2B3E2&Options=info|&Search=
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hearing tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1460784@nyc-council-calendar
+DTSTAMP:20261201T180000Z
+DTSTART:20261201T180000Z
+DTEND:20261201T190000Z
+SUMMARY:NYC Council - Committee on Small Business
+LOCATION:250 Broadway - 8th Floor - Hearing Room 2
+DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
+ tail.aspx?ID=1460784&GUID=6337B7C6-899B-48DD-A6A6-CA724B318828&Options=in
+ fo|&Search=\nEnd time is a placeholder.
+URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1460784&GUID=63
+ 37B7C6-899B-48DD-A6A6-CA724B318828&Options=info|&Search=
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Hearing tomorrow
