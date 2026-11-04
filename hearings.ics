@@ -8,24 +8,6 @@ X-WR-TIMEZONE:America/New_York
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
-UID:1453104@nyc-council-calendar
-DTSTAMP:20261007T160000Z
-DTSTART:20261007T160000Z
-DTEND:20261007T170000Z
-SUMMARY:NYC Council - Committee on Education
-LOCATION:250 Broadway - 8th Floor - Hearing Room 3 VOTE*
-DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
- tail.aspx?ID=1453104&GUID=854F1FCE-AEF6-48F1-83E6-BB9AC6592B57&Options=in
- fo|&Search=\nEnd time is a placeholder.
-URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1453104&GUID=85
- 4F1FCE-AEF6-48F1-83E6-BB9AC6592B57&Options=info|&Search=
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Hearing tomorrow
-TRIGGER:-P1D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:1443571@nyc-council-calendar
 DTSTAMP:20261007T170000Z
 DTSTART:20261007T170000Z
@@ -1236,6 +1218,44 @@ DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
  fo|&Search=\nEnd time is a placeholder.
 URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1457117&GUID=9D
  B89032-A28D-4577-AEAE-AD76927AC070&Options=info|&Search=
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hearing tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1460605@nyc-council-calendar
+DTSTAMP:20261124T150000Z
+DTSTART:20261124T150000Z
+DTEND:20261124T160000Z
+SUMMARY:NYC Council - Committee on Parks and Recreation
+LOCATION:250 Broadway - 8th Floor - Hearing Room 1 Jointly with the Commit
+ tee on Disabilities
+DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
+ tail.aspx?ID=1460605&GUID=B82C883F-663B-412F-BE92-55029241E238&Options=in
+ fo|&Search=\nEnd time is a placeholder.
+URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1460605&GUID=B8
+ 2C883F-663B-412F-BE92-55029241E238&Options=info|&Search=
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hearing tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1460606@nyc-council-calendar
+DTSTAMP:20261124T150000Z
+DTSTART:20261124T150000Z
+DTEND:20261124T160000Z
+SUMMARY:NYC Council - Committee on Disabilities
+LOCATION:250 Broadway - 8th Floor - Hearing Room 1 Jointly with the Commit
+ tee on Parks and Recreation.
+DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
+ tail.aspx?ID=1460606&GUID=467BA8C8-725E-4EFD-8A0A-59A621F50F16&Options=in
+ fo|&Search=\nEnd time is a placeholder.
+URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1460606&GUID=46
+ 7BA8C8-725E-4EFD-8A0A-59A621F50F16&Options=info|&Search=
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Hearing tomorrow
