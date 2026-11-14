@@ -8,24 +8,6 @@ X-WR-TIMEZONE:America/New_York
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
-UID:1452857@nyc-council-calendar
-DTSTAMP:20261022T140000Z
-DTSTART:20261022T140000Z
-DTEND:20261022T150000Z
-SUMMARY:NYC Council - Committee on Finance
-LOCATION:Council Chambers - City Hall VOTE*
-DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
- tail.aspx?ID=1452857&GUID=85140EB0-5D91-4451-8FC2-54E85C0A7D78&Options=in
- fo|&Search=\nEnd time is a placeholder.
-URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1452857&GUID=85
- 140EB0-5D91-4451-8FC2-54E85C0A7D78&Options=info|&Search=
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Hearing tomorrow
-TRIGGER:-P1D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:1455920@nyc-council-calendar
 DTSTAMP:20261022T141500Z
 DTSTART:20261022T141500Z
@@ -1226,24 +1208,6 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1462358@nyc-council-calendar
-DTSTAMP:20261209T150000Z
-DTSTART:20261209T150000Z
-DTEND:20261209T160000Z
-SUMMARY:NYC Council - Committee on Civil and Human Rights
-LOCATION:Council Chambers - City Hall
-DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
- tail.aspx?ID=1462358&GUID=9C523296-EFA6-4207-A95C-996FAF318F8E&Options=in
- fo|&Search=\nEnd time is a placeholder.
-URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1462358&GUID=9C
- 523296-EFA6-4207-A95C-996FAF318F8E&Options=info|&Search=
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Hearing tomorrow
-TRIGGER:-P1D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:1463322@nyc-council-calendar
 DTSTAMP:20261210T150000Z
 DTSTART:20261210T150000Z
@@ -1295,6 +1259,24 @@ DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
  fo|&Search=\nEnd time is a placeholder.
 URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1463337&GUID=BE
  8D0013-6786-4648-966D-E84290E4B727&Options=info|&Search=
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hearing tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1464374@nyc-council-calendar
+DTSTAMP:20261210T150000Z
+DTSTART:20261210T150000Z
+DTEND:20261210T160000Z
+SUMMARY:NYC Council - Committee on Civil and Human Rights
+LOCATION:Council Chambers - City Hall
+DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
+ tail.aspx?ID=1464374&GUID=5F58F6CC-79FD-4E45-99F6-1C28EB61FFD0&Options=in
+ fo|&Search=\nEnd time is a placeholder.
+URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1464374&GUID=5F
+ 58F6CC-79FD-4E45-99F6-1C28EB61FFD0&Options=info|&Search=
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Hearing tomorrow
