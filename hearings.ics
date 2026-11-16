@@ -8,61 +8,6 @@ X-WR-TIMEZONE:America/New_York
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
-UID:1455920@nyc-council-calendar
-DTSTAMP:20261022T141500Z
-DTSTART:20261022T141500Z
-DTEND:20261022T151500Z
-SUMMARY:NYC Council - Committee on Health
-LOCATION:Council Chambers - City Hall VOTE*
-DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
- tail.aspx?ID=1455920&GUID=3BD37871-5730-4F5C-B23B-01FE59BF20DE&Options=in
- fo|&Search=\nEnd time is a placeholder.
-URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1455920&GUID=3B
- D37871-5730-4F5C-B23B-01FE59BF20DE&Options=info|&Search=
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Hearing tomorrow
-TRIGGER:-P1D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:1456023@nyc-council-calendar
-DTSTAMP:20261022T143000Z
-DTSTART:20261022T143000Z
-DTEND:20261022T153000Z
-SUMMARY:NYC Council - Committee on Cultural Affairs\, Libraries and Intern
- ational Relations
-LOCATION:Committee Room - City Hall VOTE
-DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
- tail.aspx?ID=1456023&GUID=330FD343-F2C0-44A1-8478-AB5D82E4B990&Options=in
- fo|&Search=\nEnd time is a placeholder.
-URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1456023&GUID=33
- 0FD343-F2C0-44A1-8478-AB5D82E4B990&Options=info|&Search=
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Hearing tomorrow
-TRIGGER:-P1D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:1456186@nyc-council-calendar
-DTSTAMP:20261022T143000Z
-DTSTART:20261022T143000Z
-DTEND:20261022T153000Z
-SUMMARY:NYC Council - Committee on Criminal Justice
-LOCATION:Council Chambers - City Hall VOTE*
-DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
- tail.aspx?ID=1456186&GUID=C19222A6-0B69-47F6-87A5-ABBE8101EA0E&Options=in
- fo|&Search=\nEnd time is a placeholder.
-URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1456186&GUID=C1
- 9222A6-0B69-47F6-87A5-ABBE8101EA0E&Options=info|&Search=
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Hearing tomorrow
-TRIGGER:-P1D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:1456095@nyc-council-calendar
 DTSTAMP:20261022T150000Z
 DTSTART:20261022T150000Z
@@ -1208,6 +1153,24 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:1464562@nyc-council-calendar
+DTSTAMP:20261209T150000Z
+DTSTART:20261209T150000Z
+DTEND:20261209T160000Z
+SUMMARY:NYC Council - Committee on Mental Health and Substance Use
+LOCATION:250 Broadway - 8th Floor - Hearing Room 1
+DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
+ tail.aspx?ID=1464562&GUID=6439ADC1-3641-455D-8935-56E18887029A&Options=in
+ fo|&Search=\nEnd time is a placeholder.
+URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1464562&GUID=64
+ 39ADC1-3641-455D-8935-56E18887029A&Options=info|&Search=
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hearing tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:1463322@nyc-council-calendar
 DTSTAMP:20261210T150000Z
 DTSTART:20261210T150000Z
@@ -1259,24 +1222,6 @@ DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
  fo|&Search=\nEnd time is a placeholder.
 URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1463337&GUID=BE
  8D0013-6786-4648-966D-E84290E4B727&Options=info|&Search=
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Hearing tomorrow
-TRIGGER:-P1D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:1464374@nyc-council-calendar
-DTSTAMP:20261210T150000Z
-DTSTART:20261210T150000Z
-DTEND:20261210T160000Z
-SUMMARY:NYC Council - Committee on Civil and Human Rights
-LOCATION:Council Chambers - City Hall
-DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
- tail.aspx?ID=1464374&GUID=5F58F6CC-79FD-4E45-99F6-1C28EB61FFD0&Options=in
- fo|&Search=\nEnd time is a placeholder.
-URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1464374&GUID=5F
- 58F6CC-79FD-4E45-99F6-1C28EB61FFD0&Options=info|&Search=
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Hearing tomorrow
@@ -1353,6 +1298,24 @@ DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
  fo|&Search=\nEnd time is a placeholder.
 URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1462445&GUID=BD
  43C760-8CB2-42D2-B2AE-396D57A59712&Options=info|&Search=
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hearing tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1465486@nyc-council-calendar
+DTSTAMP:20261214T150000Z
+DTSTART:20261214T150000Z
+DTEND:20261214T160000Z
+SUMMARY:NYC Council - Committee on Civil and Human Rights
+LOCATION:Council Chambers - City Hall
+DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
+ tail.aspx?ID=1465486&GUID=0C9D7BA6-E2D0-47A1-A62A-3BE5E3074FDB&Options=in
+ fo|&Search=\nEnd time is a placeholder.
+URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1465486&GUID=0C
+ 9D7BA6-E2D0-47A1-A62A-3BE5E3074FDB&Options=info|&Search=
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Hearing tomorrow
@@ -1447,6 +1410,24 @@ DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
  fo|&Search=\nEnd time is a placeholder.
 URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1464240&GUID=BE
  7C4585-E5B2-4D26-987D-D04875C9512F&Options=info|&Search=
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hearing tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1463240@nyc-council-calendar
+DTSTAMP:20261216T180000Z
+DTSTART:20261216T180000Z
+DTEND:20261216T190000Z
+SUMMARY:NYC Council - Committee on Economic Development
+LOCATION:Committee Room - City Hall
+DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
+ tail.aspx?ID=1463240&GUID=3B41869D-EF45-4053-AB46-10DD47928F12&Options=in
+ fo|&Search=\nEnd time is a placeholder.
+URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1463240&GUID=3B
+ 41869D-EF45-4053-AB46-10DD47928F12&Options=info|&Search=
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Hearing tomorrow
