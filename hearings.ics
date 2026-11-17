@@ -8,42 +8,6 @@ X-WR-TIMEZONE:America/New_York
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
-UID:1456095@nyc-council-calendar
-DTSTAMP:20261022T150000Z
-DTSTART:20261022T150000Z
-DTEND:20261022T160000Z
-SUMMARY:NYC Council - Committee on Housing and Buildings
-LOCATION:Council Chambers - City Hall VOTE*
-DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
- tail.aspx?ID=1456095&GUID=2405720D-9057-40E3-827D-FAEFE9242B88&Options=in
- fo|&Search=\nEnd time is a placeholder.
-URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1456095&GUID=24
- 05720D-9057-40E3-827D-FAEFE9242B88&Options=info|&Search=
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Hearing tomorrow
-TRIGGER:-P1D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:1456738@nyc-council-calendar
-DTSTAMP:20261022T173000Z
-DTSTART:20261022T173000Z
-DTEND:20261022T183000Z
-SUMMARY:NYC Council - City Council Stated Meeting
-LOCATION:Council Chambers - City Hall
-DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
- tail.aspx?ID=1456738&GUID=8ACD8286-9404-4AAE-89A6-8EABAF1E8949&Options=in
- fo|&Search=\nEnd time is a placeholder.
-URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1456738&GUID=8A
- CD8286-9404-4AAE-89A6-8EABAF1E8949&Options=info|&Search=
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Hearing tomorrow
-TRIGGER:-P1D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:1455614@nyc-council-calendar
 DTSTAMP:20261026T140000Z
 DTSTART:20261026T140000Z
@@ -634,6 +598,25 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:1464325@nyc-council-calendar
+DTSTAMP:20261119T150000Z
+DTSTART:20261119T150000Z
+DTEND:20261119T160000Z
+SUMMARY:NYC Council - Committee on Cultural Affairs\, Libraries and Intern
+ ational Relations
+LOCATION:250 Broadway - 8th Floor - Hearing Room 1 VOTE*
+DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
+ tail.aspx?ID=1464325&GUID=72C7DA64-3096-436D-9B47-E2C0890F6E9E&Options=in
+ fo|&Search=\nEnd time is a placeholder.
+URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1464325&GUID=72
+ C7DA64-3096-436D-9B47-E2C0890F6E9E&Options=info|&Search=
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hearing tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:1461482@nyc-council-calendar
 DTSTAMP:20261119T153000Z
 DTSTART:20261119T153000Z
@@ -737,6 +720,24 @@ DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
  fo|&Search=\nEnd time is a placeholder.
 URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1463561&GUID=48
  71E797-E5CC-4665-A5B9-4AA436BCFD06&Options=info|&Search=
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hearing tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1463562@nyc-council-calendar
+DTSTAMP:20261119T161500Z
+DTSTART:20261119T161500Z
+DTEND:20261119T171500Z
+SUMMARY:NYC Council - Committee on Housing and Buildings
+LOCATION:Council Chambers - City Hall VOTE*
+DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
+ tail.aspx?ID=1463562&GUID=3C91E317-8C00-428A-9CB9-399298C2D0DF&Options=in
+ fo|&Search=\nEnd time is a placeholder.
+URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1463562&GUID=3C
+ 91E317-8C00-428A-9CB9-399298C2D0DF&Options=info|&Search=
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Hearing tomorrow
@@ -895,9 +896,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1455577@nyc-council-calendar
-DTSTAMP:20261124T160000Z
-DTSTART:20261124T160000Z
-DTEND:20261124T170000Z
+DTSTAMP:20261124T170000Z
+DTSTART:20261124T170000Z
+DTEND:20261124T180000Z
 SUMMARY:NYC Council - Subcommittee on Landmarks\, Public Sitings\, Resilie
  ncy and Dispositions
 LOCATION:250 Broadway - 8th Floor - Hearing Room 3
@@ -1417,6 +1418,24 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:1465729@nyc-council-calendar
+DTSTAMP:20261216T150000Z
+DTSTART:20261216T150000Z
+DTEND:20261216T160000Z
+SUMMARY:NYC Council - Committee on Contracts
+LOCATION:250 Broadway - 8th Floor - Hearing Room 2
+DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
+ tail.aspx?ID=1465729&GUID=DE77A841-A3BE-4B9A-9FB7-E3E027209A11&Options=in
+ fo|&Search=\nEnd time is a placeholder.
+URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1465729&GUID=DE
+ 77A841-A3BE-4B9A-9FB7-E3E027209A11&Options=info|&Search=
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hearing tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:1463240@nyc-council-calendar
 DTSTAMP:20261216T180000Z
 DTSTART:20261216T180000Z
@@ -1518,24 +1537,6 @@ DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
  fo|&Search=\nEnd time is a placeholder.
 URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1463552&GUID=EF
  A3E554-3BEA-46B8-918B-92AFE7DAE1E6&Options=info|&Search=
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Hearing tomorrow
-TRIGGER:-P1D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:1463555@nyc-council-calendar
-DTSTAMP:20270210T150000Z
-DTSTART:20270210T150000Z
-DTEND:20270210T160000Z
-SUMMARY:NYC Council - Committee on Contracts
-LOCATION:250 Broadway - 8th Floor - Hearing Room 1
-DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
- tail.aspx?ID=1463555&GUID=79659535-1FE9-400C-8A4B-676FA9B6DC34&Options=in
- fo|&Search=\nEnd time is a placeholder.
-URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1463555&GUID=79
- 659535-1FE9-400C-8A4B-676FA9B6DC34&Options=info|&Search=
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Hearing tomorrow
