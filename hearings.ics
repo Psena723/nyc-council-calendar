@@ -727,17 +727,17 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1418197@nyc-council-calendar
+UID:1465732@nyc-council-calendar
 DTSTAMP:20261119T183000Z
 DTSTART:20261119T183000Z
 DTEND:20261119T193000Z
 SUMMARY:NYC Council - City Council Stated Meeting
 LOCATION:Council Chambers - City Hall
 DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
- tail.aspx?ID=1418197&GUID=1EB7E7FF-9178-4582-8487-F6C09B566213&Options=in
+ tail.aspx?ID=1465732&GUID=D1B2684F-11C9-4839-AB56-DEA080753F14&Options=in
  fo|&Search=\nEnd time is a placeholder.
-URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1418197&GUID=1E
- B7E7FF-9178-4582-8487-F6C09B566213&Options=info|&Search=
+URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1465732&GUID=D1
+ B2684F-11C9-4839-AB56-DEA080753F14&Options=info|&Search=
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Hearing tomorrow
