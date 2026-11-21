@@ -8,24 +8,6 @@ X-WR-TIMEZONE:America/New_York
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
-UID:1448726@nyc-council-calendar
-DTSTAMP:20261027T170000Z
-DTSTART:20261027T170000Z
-DTEND:20261027T180000Z
-SUMMARY:NYC Council - Committee on Children and Youth
-LOCATION:Council Chambers - City Hall
-DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
- tail.aspx?ID=1448726&GUID=101E3C81-0A0C-4586-BA6A-E37FF45D1D7A&Options=in
- fo|&Search=\nEnd time is a placeholder.
-URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1448726&GUID=10
- 1E3C81-0A0C-4586-BA6A-E37FF45D1D7A&Options=info|&Search=
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Hearing tomorrow
-TRIGGER:-P1D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:1449191@nyc-council-calendar
 DTSTAMP:20261028T140000Z
 DTSTART:20261028T140000Z
@@ -1392,6 +1374,24 @@ DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
  fo|&Search=\nEnd time is a placeholder.
 URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1463831&GUID=22
  4402F3-ADC1-4D87-8C9F-E6E6059BD8EF&Options=info|&Search=
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hearing tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1465477@nyc-council-calendar
+DTSTAMP:20261215T180000Z
+DTSTART:20261215T180000Z
+DTEND:20261215T190000Z
+SUMMARY:NYC Council - Committee on Public Housing
+LOCATION:250 Broadway - 8th Floor - Hearing Room 1
+DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
+ tail.aspx?ID=1465477&GUID=FF71AF27-6624-446D-A13C-A26394B1DABA&Options=in
+ fo|&Search=\nEnd time is a placeholder.
+URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1465477&GUID=FF
+ 71AF27-6624-446D-A13C-A26394B1DABA&Options=info|&Search=
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Hearing tomorrow
