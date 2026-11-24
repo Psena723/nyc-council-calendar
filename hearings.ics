@@ -8,62 +8,6 @@ X-WR-TIMEZONE:America/New_York
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
-UID:1444735@nyc-council-calendar
-DTSTAMP:20261029T170000Z
-DTSTART:20261029T170000Z
-DTEND:20261029T180000Z
-SUMMARY:NYC Council - Committee on Small Business
-LOCATION:250 Broadway - 8th Floor - Hearing Room 1 Jointly with the Subcom
- mittee on Early Childhood Education.
-DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
- tail.aspx?ID=1444735&GUID=03265085-703C-43A3-AA9E-260100308466&Options=in
- fo|&Search=\nEnd time is a placeholder.
-URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1444735&GUID=03
- 265085-703C-43A3-AA9E-260100308466&Options=info|&Search=
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Hearing tomorrow
-TRIGGER:-P1D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:1444736@nyc-council-calendar
-DTSTAMP:20261029T170000Z
-DTSTART:20261029T170000Z
-DTEND:20261029T180000Z
-SUMMARY:NYC Council - Subcommittee on Early Childhood Education
-LOCATION:250 Broadway - 8th Floor - Hearing Room 1 Jointly with the Commit
- tee on Small Business
-DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
- tail.aspx?ID=1444736&GUID=A6C12B16-BF42-4183-A6C6-19D408976949&Options=in
- fo|&Search=\nEnd time is a placeholder.
-URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1444736&GUID=A6
- C12B16-BF42-4183-A6C6-19D408976949&Options=info|&Search=
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Hearing tomorrow
-TRIGGER:-P1D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:1455081@nyc-council-calendar
-DTSTAMP:20261029T180000Z
-DTSTART:20261029T180000Z
-DTEND:20261029T190000Z
-SUMMARY:NYC Council - Committee on Contracts
-LOCATION:250 Broadway - 8th Floor - Hearing Room 2
-DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
- tail.aspx?ID=1455081&GUID=B86CF53E-FDB9-4663-BBB1-D1A3EE039111&Options=in
- fo|&Search=\nEnd time is a placeholder.
-URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1455081&GUID=B8
- 6CF53E-FDB9-4663-BBB1-D1A3EE039111&Options=info|&Search=
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Hearing tomorrow
-TRIGGER:-P1D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:1456231@nyc-council-calendar
 DTSTAMP:20261030T170000Z
 DTSTART:20261030T170000Z
@@ -1103,6 +1047,44 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:1468641@nyc-council-calendar
+DTSTAMP:20261210T150000Z
+DTSTART:20261210T150000Z
+DTEND:20261210T160000Z
+SUMMARY:NYC Council - Committee on Public Safety
+LOCATION:Council Chambers - City Hall Jointly with Committee on Transporta
+ tion and Infrastructure.
+DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
+ tail.aspx?ID=1468641&GUID=259321F3-2615-4206-B16E-9D2E46EB46EB&Options=in
+ fo|&Search=\nEnd time is a placeholder.
+URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1468641&GUID=25
+ 9321F3-2615-4206-B16E-9D2E46EB46EB&Options=info|&Search=
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hearing tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1468642@nyc-council-calendar
+DTSTAMP:20261210T150000Z
+DTSTART:20261210T150000Z
+DTEND:20261210T160000Z
+SUMMARY:NYC Council - Committee on Transportation and Infrastructure
+LOCATION:Council Chambers - City Hall Jointly with the Committee on Public
+  Safety
+DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
+ tail.aspx?ID=1468642&GUID=89C412CB-6815-451A-B4AC-02F4B804250C&Options=in
+ fo|&Search=\nEnd time is a placeholder.
+URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1468642&GUID=89
+ C412CB-6815-451A-B4AC-02F4B804250C&Options=info|&Search=
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hearing tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:1460417@nyc-council-calendar
 DTSTAMP:20261210T180000Z
 DTSTART:20261210T180000Z
@@ -1290,6 +1272,44 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:1468716@nyc-council-calendar
+DTSTAMP:20261214T180000Z
+DTSTART:20261214T180000Z
+DTEND:20261214T190000Z
+SUMMARY:NYC Council - Committee on Oversight and Investigations
+LOCATION:Council Chambers - City Hall Jointly with the Committee on Consum
+ er and Worker Protection
+DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
+ tail.aspx?ID=1468716&GUID=49197696-0A04-4703-88FF-D4964E614317&Options=in
+ fo|&Search=\nEnd time is a placeholder.
+URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1468716&GUID=49
+ 197696-0A04-4703-88FF-D4964E614317&Options=info|&Search=
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hearing tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1468717@nyc-council-calendar
+DTSTAMP:20261214T180000Z
+DTSTART:20261214T180000Z
+DTEND:20261214T190000Z
+SUMMARY:NYC Council - Committee on Consumer and Worker Protection
+LOCATION:Council Chambers - City Hall Jointly with the Committee on Oversi
+ ght and Investigations.
+DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
+ tail.aspx?ID=1468717&GUID=913CBF56-6A2A-43B0-A7CD-8D9EF9BCAEA2&Options=in
+ fo|&Search=\nEnd time is a placeholder.
+URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1468717&GUID=91
+ 3CBF56-6A2A-43B0-A7CD-8D9EF9BCAEA2&Options=info|&Search=
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hearing tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:1462451@nyc-council-calendar
 DTSTAMP:20261215T150000Z
 DTSTART:20261215T150000Z
@@ -1301,44 +1321,6 @@ DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
  fo|&Search=\nEnd time is a placeholder.
 URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1462451&GUID=D9
  8B8535-27C1-4657-9A1C-19AE1B8A2DB9&Options=info|&Search=
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Hearing tomorrow
-TRIGGER:-P1D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:1464238@nyc-council-calendar
-DTSTAMP:20261215T150000Z
-DTSTART:20261215T150000Z
-DTEND:20261215T160000Z
-SUMMARY:NYC Council - Committee on Public Safety
-LOCATION:250 Broadway - 8th Floor - Hearing Room 2 Jointly with Committee 
- on Transportation and Infrastructure.
-DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
- tail.aspx?ID=1464238&GUID=444F32CE-03C5-45B0-8873-8B4201965FB4&Options=in
- fo|&Search=\nEnd time is a placeholder.
-URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1464238&GUID=44
- 4F32CE-03C5-45B0-8873-8B4201965FB4&Options=info|&Search=
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Hearing tomorrow
-TRIGGER:-P1D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:1464240@nyc-council-calendar
-DTSTAMP:20261215T150000Z
-DTSTART:20261215T150000Z
-DTEND:20261215T160000Z
-SUMMARY:NYC Council - Committee on Transportation and Infrastructure
-LOCATION:250 Broadway - 8th Floor - Hearing Room 2 Jointly with the Commit
- tee on Public Safety
-DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
- tail.aspx?ID=1464240&GUID=BE7C4585-E5B2-4D26-987D-D04875C9512F&Options=in
- fo|&Search=\nEnd time is a placeholder.
-URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1464240&GUID=BE
- 7C4585-E5B2-4D26-987D-D04875C9512F&Options=info|&Search=
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Hearing tomorrow
