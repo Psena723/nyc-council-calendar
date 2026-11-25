@@ -823,6 +823,43 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:1457072@nyc-council-calendar
+DTSTAMP:20261202T163000Z
+DTSTART:20261202T163000Z
+DTEND:20261202T173000Z
+SUMMARY:NYC Council - Committee on Rules\, Privileges\, Elections\, Standa
+ rds and Ethics
+LOCATION:250 Broadway - 8th Floor - Hearing Room 3
+DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
+ tail.aspx?ID=1457072&GUID=D15BA69E-982D-489A-92EF-9BAF2A61F19E&Options=in
+ fo|&Search=\nEnd time is a placeholder.
+URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1457072&GUID=D1
+ 5BA69E-982D-489A-92EF-9BAF2A61F19E&Options=info|&Search=
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hearing tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1469237@nyc-council-calendar
+DTSTAMP:20261203T153000Z
+DTSTART:20261203T153000Z
+DTEND:20261203T163000Z
+SUMMARY:NYC Council - Committee on Health
+LOCATION:250 Broadway - 8th Floor - Hearing Room 2 VOTE*
+DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
+ tail.aspx?ID=1469237&GUID=37AC9E85-1B9F-4FA0-B005-95A81A1ABAE7&Options=in
+ fo|&Search=\nEnd time is a placeholder.
+URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1469237&GUID=37
+ AC9E85-1B9F-4FA0-B005-95A81A1ABAE7&Options=info|&Search=
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hearing tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:1463233@nyc-council-calendar
 DTSTAMP:20261203T160000Z
 DTSTART:20261203T160000Z
