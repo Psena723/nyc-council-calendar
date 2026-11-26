@@ -8,45 +8,6 @@ X-WR-TIMEZONE:America/New_York
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 X-PUBLISHED-TTL:PT4H
 BEGIN:VEVENT
-UID:1456231@nyc-council-calendar
-DTSTAMP:20261030T170000Z
-DTSTART:20261030T170000Z
-DTEND:20261030T180000Z
-SUMMARY:NYC Council - Committee on Public Safety
-LOCATION:Council Chambers - City Hall Jointly with the Committee on Govern
- mental Operations\, State & Federal Legislation.
-DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
- tail.aspx?ID=1456231&GUID=328125E3-8011-4F8F-81CB-E02379F208D9&Options=in
- fo|&Search=\nEnd time is a placeholder.
-URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1456231&GUID=32
- 8125E3-8011-4F8F-81CB-E02379F208D9&Options=info|&Search=
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Hearing tomorrow
-TRIGGER:-P1D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:1456240@nyc-council-calendar
-DTSTAMP:20261030T170000Z
-DTSTART:20261030T170000Z
-DTEND:20261030T180000Z
-SUMMARY:NYC Council - Committee on Governmental Operations\, State & Feder
- al Legislation
-LOCATION:Council Chambers - City Hall Jointly with the Committee on Public
-  Safety
-DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
- tail.aspx?ID=1456240&GUID=86D3979D-A320-4152-A6AD-8358CA5B535E&Options=in
- fo|&Search=\nEnd time is a placeholder.
-URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1456240&GUID=86
- D3979D-A320-4152-A6AD-8358CA5B535E&Options=info|&Search=
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Hearing tomorrow
-TRIGGER:-P1D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:1449028@nyc-council-calendar
 DTSTAMP:20261102T150000Z
 DTSTART:20261102T150000Z
@@ -860,6 +821,24 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:1469251@nyc-council-calendar
+DTSTAMP:20261203T153000Z
+DTSTART:20261203T153000Z
+DTEND:20261203T163000Z
+SUMMARY:NYC Council - Committee on Women and Gender Equity
+LOCATION:250 Broadway - 8th Floor - Hearing Room 1 VOTE*
+DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
+ tail.aspx?ID=1469251&GUID=4462DC81-038A-40A1-B985-BC45C0709B8F&Options=in
+ fo|&Search=\nEnd time is a placeholder.
+URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1469251&GUID=44
+ 62DC81-038A-40A1-B985-BC45C0709B8F&Options=info|&Search=
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hearing tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:1463233@nyc-council-calendar
 DTSTAMP:20261203T160000Z
 DTSTART:20261203T160000Z
@@ -1539,6 +1518,42 @@ DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
  fo|&Search=\nEnd time is a placeholder.
 URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1467231&GUID=1A
  BF29FF-C3A1-4596-AC09-964CDF83FFE0&Options=info|&Search=
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hearing tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1469370@nyc-council-calendar
+DTSTAMP:20270120T163000Z
+DTSTART:20270120T163000Z
+DTEND:20270120T173000Z
+SUMMARY:NYC Council - Subcommittee on Zoning and Franchises
+LOCATION:250 Broadway - 8th Floor - Hearing Room 3
+DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
+ tail.aspx?ID=1469370&GUID=C5CD5281-335B-4343-AECA-FFFC1F555E34&Options=in
+ fo|&Search=\nEnd time is a placeholder.
+URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1469370&GUID=C5
+ CD5281-335B-4343-AECA-FFFC1F555E34&Options=info|&Search=
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hearing tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1469369@nyc-council-calendar
+DTSTAMP:20270120T170000Z
+DTSTART:20270120T170000Z
+DTEND:20270120T180000Z
+SUMMARY:NYC Council - Committee on Land Use
+LOCATION:250 Broadway - 8th Floor - Hearing Room 3
+DESCRIPTION:Details and agenda: https://legistar.council.nyc.gov/MeetingDe
+ tail.aspx?ID=1469369&GUID=2AF7BE8F-DBFA-47DF-B8EE-189DF65C9F86&Options=in
+ fo|&Search=\nEnd time is a placeholder.
+URL:https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1469369&GUID=2A
+ F7BE8F-DBFA-47DF-B8EE-189DF65C9F86&Options=info|&Search=
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Hearing tomorrow
